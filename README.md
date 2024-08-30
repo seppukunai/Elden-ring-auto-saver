@@ -1,4 +1,5 @@
 - English
+- 
 There are only 2 steps you need to do before running the program.
 
 1- Type "shell:startup" in Run.
@@ -14,7 +15,7 @@ The purpose of the program is to save your game progress in case the game sudden
 
 
 - Türkçe
-"
+
 Programı çalıştırmadan önce yapmanız gereken sadece 2 adım var.
 
 1- Çalıştır a "shell:startup" yazın.
